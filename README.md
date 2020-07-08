@@ -1,0 +1,1 @@
+# mercenary-registration-service
